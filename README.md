@@ -1,0 +1,2 @@
+# ogrenciyurtotomasyonu
+ogrenciyurtotomasyonu
