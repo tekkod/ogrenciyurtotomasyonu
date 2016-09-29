@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'open-sans-light';
+    src: url('../fonts/opan-sans/OpenSans-Light-webfont.eot');
+    src: url('../fonts/opan-sans/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opan-sans/OpenSans-Light-webfont.woff') format('woff'),
+         url('../fonts/opan-sans/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('../fonts/opan-sans/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{border-radius: 0px !important}
+html,body{font-size: 12px;font-family: 'open-sans-light';}
+#butonlar li a{width: 100%}
+#topbar li img{width: 100%}
+div.dataTables_length label{color: #000}
+div.dataTables_filter label{color: #000}
+div.dataTables_info{color: #000}
+.table-responsive{overflow: hidden !important;}
+.btn{padding: 3px 9px;}
